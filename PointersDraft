@@ -1,0 +1,41 @@
+introduction
+---what is Pruning?
+---work done in paper (in short)
+
+
+
+Related Work
+---Pruning work ( total  4 papers)
+
+
+Methodology
+--1. DAtaset
+		--data source,rows columns count, introduction of data in 1 line , histogram on frequency distribution
+
+--2. PreProcessing
+		--Missing numeric data was imputed with the mean, used libraries of python etc, correlation figure
+
+--3. Data Pruning
+		-- what did and scatter plot
+
+--4. Algorithms
+		--names of algos used , 1 liner of result approach
+		--Log Regre -- seed changes and bar graph
+		--RF --change n-est and check for the best accuracy and bar graph
+		--SVM -- same as above
+--5. Evaluation
+		-- split % etc
+		
+Result and discussion
+		--Metrics : accuracy score and F1-score
+		--Discussion :  what is done in just 30-40 word/Accuracy score of each algorithm per iteration ,   F1 score of each algorithm per iteration
+		--Results - Conclusion
+
+limitation
+		--blah blah , count per class pie chart for data
+		
+AcK / Ref
+
+Appendix
+Table 3:Comparison of Accuracy score of Algorithms (%)
+Table 4Comparison of F1 score of Algorithms
